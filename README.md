@@ -11,7 +11,7 @@ An electronics engineer with 2 years of experience. I am engaged in the developm
 - Preparation of a package of documents for certification
 
 - ## 📂 Projects
-- 🔌 [Indicator Boards] (link)
+- 🔌 [Indicator Boards] (https://github.com/elisavet-dep/Indicator-boards.git)
 - 📡 [Communication module] (link)
 - 🧪 [Printed circuit board of the test device](link)
 
